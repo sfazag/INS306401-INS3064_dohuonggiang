@@ -1,0 +1,12 @@
+[
+  {
+    "name": "SMARTTASKER",
+    "desc": "A productivity system to manage important tasks, events and reminders with alert notifications — built as a full-stack solution.",
+    "image": "smarttasker",
+    "category": "webapp",
+    "links": {
+      "view": "https://github.com/Final-ComputerTech/SMARTTASKER-2.0/tree/leader/backend",
+      "code": "https://github.com/Final-ComputerTech/SMARTTASKER-2.0/tree/leader/backend"
+    }
+  }
+]
